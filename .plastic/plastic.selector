@@ -1,0 +1,4 @@
+repository "Dungeon_gsy@saumel@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
